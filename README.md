@@ -1,4 +1,4 @@
-# 🧠 TheoremLabs | R&D Spikes Backlog
+# TheoremLabs | R&D Spikes Backlog
 
 Welcome to **TheoremLabs’ Open R&D Backlog** — a curated collection of *research and development spikes* designed to explore the **intersection of AI, Data, Cloud, Automation, and Business Transformation.**
 
