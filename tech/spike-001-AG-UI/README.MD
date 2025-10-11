@@ -63,7 +63,7 @@ Here’s how we’ll test the hypothesis:
 |---|------------------|
 | **SDK / Protocol** | AG-UI (TypeScript SDK, HTTP connector)  |
 | **Agent Frameworks** | LangChain, Mastra, CrewAI (or LlamaIndex) |
-| **References / Docs** | AG-UI GitHub & docs , agent framework docs, related blog posts |
+| **References / Docs** | AG-UI GitHub & docs , related video |
 
 ---
 
@@ -71,10 +71,9 @@ Here’s how we’ll test the hypothesis:
 
 Document what you discover. Some mock example findings:
 
-- Connecting LangChain and CrewAI through AG-UI required ~120 lines of adapter logic per framework.  
+- Connecting LangChain, Mastra and/or CrewAI through AG-UI required ~120 lines of adapter logic per framework.  
 - Streaming via AG-UI was smooth in Chrome, but had micro-pauses under slow network (< 3 Mbps).  
 - The AG-UI event schema lacked a “partial update” event (e.g. editor cursor position), which we patched with a custom extension.  
-- Memory overhead increased by ~15 % compared to direct framework embedding (due to protocol serialization).  
 - Error reconnection logic (agent backend reconnect) caused UI flicker with current AG-UI default reconnect behavior.
 
 Include any code snippets, screenshots, logs, or charts in `/assets/` or logs in `/notes/`.
@@ -90,7 +89,8 @@ Include any code snippets, screenshots, logs, or charts in `/assets/` or logs in
 | 🚫 Reject | The overhead and adaptation complexity outweigh benefits for our use cases. |
 
 **Recommendation:**  
-Based on prototypes, AG-UI is promising as a unified UI protocol. I recommend piloting it in one internal project (LangChain + AG-UI) while continuing to refine custom connectors for others.
+E.g. Recommendation Outcome(s):
+- Based on prototypes, AG-UI is promising as a unified UI protocol. I recommend piloting it in one internal project (LangChain + AG-UI) while continuing to refine custom connectors for others.
 
 ---
 
@@ -121,8 +121,9 @@ This spike evaluated **AG-UI** as a vendor-agnostic UI protocol for agentic appl
 - Keep each spike **bounded in time** (ideally ≤ 7 days)  
 - Code for **“just enough” to learn** — don’t over-engineer  
 - Document **failures and gaps** — they’re just as valuable  
-- Use clear naming: example folder name `spk-007-ag-ui-evaluation`
+- Use clear naming: example folder name `spk-001-AG-UI'
 
-Good luck! Let me know if you’d like a companion **`submission-guide.md`** tuned for AG-UI spike submissions.
+Good luck! 
+contact author of this spike: research@theoremlabs.io 
 ::
 ```
