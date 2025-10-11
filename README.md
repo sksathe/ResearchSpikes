@@ -81,7 +81,7 @@ Spikes are contributed by:
 ## 🧱 Structure of the Repository
 
 ```bash
-📂 /ResearchSpikesRepo
+📂 /ResearchSpikes
  ├── tech/
  │   ├── spike-001-langchain-eval/
  │   ├── spike-002-synthetic-data-frameworks/
