@@ -135,7 +135,7 @@ Each spike folder contains:
 | **InsightBridge**  | AI-driven knowledge forensics             | M&A & legacy modernization        |
 | **KnowledgePulse** | Smart PDFs & dynamic documentation        | Internal knowledge transformation |
 
-*(Details available in [IntroIntoTheoremLabs.pdf](IntroIntoTheoremLabs-03.11.2025-Final.pdf))* 
+*(Details available in [IntroIntoTheoremLabs.pdf](IntroIntoTheoremLabs-03.11.2025.pdf))* 
 
 ---
 
