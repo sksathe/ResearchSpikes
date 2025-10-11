@@ -16,7 +16,7 @@
 
 ### Purpose  
 AG-UI is an open, event-based protocol that standardizes how agents connect to frontends (user UIs) across frameworks. 
-This spike will assess whether AG-UI is usable, performant, and flexible enough to serve as a **common UX layer** for agentic apps built with different underlying agent frameworks (LangChain, CrewAI, LlamaIndex, etc.).
+This spike will assess whether AG-UI is usable, performant, and flexible enough to serve as a **common UX layer** for agentic apps built with different underlying agent frameworks (LangChain, CrewAI, Masta, LlamaIndex, etc.).
 
 ### Hypothesis  
 > “Using AG-UI as a middleware UX layer will reduce the custom integration effort across agent frameworks, while still delivering responsive, rich UI interactions (e.g. streaming, state sync, tool invocations).”
@@ -34,7 +34,7 @@ Here’s how we’ll test the hypothesis:
    - Connect it to a dummy backend using their reference HTTP implementation.
 
 2. **Integrate two agent frameworks via AG-UI**  
-   - Choose **LangChain** and **CrewAI** (or LlamaIndex) as sample agent backends.  
+   - Choose **LangChain** , **Mastra** and **CrewAI** (or LlamaIndex) as sample agent backends.  
    - Build adapters or “connectors” so each agent framework emits/responds to AG-UI events.  
    - Example: when user asks a question, send it via AG-UI input event → agent processes → return messages via AG-UI streaming / state events.
 
@@ -62,11 +62,7 @@ Here’s how we’ll test the hypothesis:
 | Type | Example Entry |
 |---|------------------|
 | **SDK / Protocol** | AG-UI (TypeScript SDK, HTTP connector)  |
-| **Agent Frameworks** | LangChain, CrewAI (or LlamaIndex) |
-| **Frontend Stack** | React, Svelte, or Vue (whatever AG-UI sample supports) |
-| **Backend / Adapter** | Node.js, Python – minimal server to translate between agent APIs and AG-UI events |
-| **Test Data / Prompts** | 5–10 sample user queries, context sets |
-| **Metrics Tools** | Browser devtools, Node perf counters, profiling |
+| **Agent Frameworks** | LangChain, Mastra, CrewAI (or LlamaIndex) |
 | **References / Docs** | AG-UI GitHub & docs , agent framework docs, related blog posts |
 
 ---
