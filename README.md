@@ -127,7 +127,7 @@ Each spike folder contains Contributor Specific:
 
 ---
 
-## 🔗 Related Initiatives
+## 🔗 Related Initiatives (Products that Theoremlabs is currently incubating) 
 
 | Accelerator        | Focus                                     | Learn More                        |
 | ------------------ | ----------------------------------------- | --------------------------------- |
