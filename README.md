@@ -96,12 +96,13 @@ Spikes are contributed by:
  │   └── scoring-rubric.md
 ````
 
-Each spike folder contains:
+Each spike folder contains Contributor Specific:
 
 * `README.md` → Overview & Hypothesis
+* `code/` → code : front-end, backend, api-components etc (deployable instructions)
 * `notes/` → Research notes or code snippets
 * `outcomes.md` → Learnings & Recommendations
-* `assets/` → Screenshots, diagrams, PDFs, etc.
+* `assets/` → Screenshots, diagrams, PDFs, videos, podcasts etc.
 
 ---
 
