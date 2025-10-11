@@ -133,7 +133,8 @@ Each spike folder contains Contributor Specific:
 | ------------------ | ----------------------------------------- | --------------------------------- |
 | [**PromptLine**](https://promptline.app/) | Voice + AI Concierge for SMBs             | AI-Service/Phone Centers for Small businesses.         |
 | **DataGaze**       | Natural Language → SQL                    | Democratizing analytics           |
-| **Kirdar.Ai**      | Ai-ROle Play & Simulations for Training   | Simulate           |
+| **Kirdar.Ai**      | Ai-ROle Play & Simulations for Training   | Simulate real life situations in sales, customer service, HR domain that are hard to train on using traditional methods |
+| **Tacit.Ai**       | Ai-Employee                               | Ai-Consultants to extract SME knowledge that is locked in SME's brain & document it  |
 | **SyntheticEdge**  | Synthetic data generation for PII-safe AI | Fast-track model development      |
 | **InsightBridge**  | AI-driven knowledge forensics             | M&A & legacy modernization        |
 | **KnowledgePulse** | Smart PDFs & dynamic documentation        | Internal knowledge transformation |
