@@ -81,7 +81,7 @@ Spikes are contributed by:
 ## 🧱 Structure of the Repository
 
 ```bash
-📂 /spikes
+📂 /ResearchSpikesRepo
  ├── tech/
  │   ├── spike-001-langchain-eval/
  │   ├── spike-002-synthetic-data-frameworks/
@@ -162,7 +162,4 @@ For collaboration, internship, or partnership inquiries:
 
 ```
 
----
-
-Would you like me to create a **visually appealing README banner image** (with TheoremLabs logo, AI-Labs theme, and R&D Backlog tagline) for the top of the page? It would make the GitHub landing page more striking and brand-aligned.
 ```
