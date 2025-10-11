@@ -154,9 +154,9 @@ Use and adaptation are encouraged under an **MIT License**, with attribution to:
 ## 💬 Contact
 
 For collaboration, internship, or partnership inquiries:
-📧 **[research@theoremlabs.io](mailto:research@theoremlabs.io)**
-🌐 [https://theoremlabs.io](https://theoremlabs.io)
-🏢 TheoremLabs, 101 S. Tryon Street, Suite 2700, Charlotte, NC 28280
+* 📧 **[research@theoremlabs.io](mailto:research@theoremlabs.io)**
+* 🌐 [https://theoremlabs.io](https://theoremlabs.io)
+* 🏢 TheoremLabs, 101 S. Tryon Street, Suite 2700, Charlotte, NC 28280
 
 ---
 
