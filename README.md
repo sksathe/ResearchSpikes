@@ -131,7 +131,7 @@ Each spike folder contains Contributor Specific:
 
 | Accelerator        | Focus                                     | Learn More                        |
 | ------------------ | ----------------------------------------- | --------------------------------- |
-| **PromptLine**     | Voice + AI Concierge for SMBs             | AI-assisted call handling         |
+| **PromptLine**     | Voice + AI Concierge for SMBs             | AI-Service/Phone Centers for Small businesses.         |
 | **SyntheticEdge**  | Synthetic data generation for PII-safe AI | Fast-track model development      |
 | **DataGaze**       | Natural Language → SQL                    | Democratizing analytics           |
 | **InsightBridge**  | AI-driven knowledge forensics             | M&A & legacy modernization        |
