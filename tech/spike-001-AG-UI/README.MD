@@ -99,9 +99,8 @@ Based on prototypes, AG-UI is promising as a unified UI protocol. I recommend pi
 ---
 
 ## 7. Related Spikes / References
-
 - AG-UI GitHub & docs: https://github.com/ag-ui-protocol/ag-ui
--Quick 20min Video on AG-UI concept and quick example using Mastra Agents framework:https://youtu.be/fhF1qSyg9j4?si=vI-sQ1uLLeSu1Ar4
+- Quick 20min Video on AG-UI concept and quick example using Mastra Agents framework:https://youtu.be/fhF1qSyg9j4?si=vI-sQ1uLLeSu1Ar4
 
 ---
 
