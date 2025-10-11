@@ -131,9 +131,10 @@ Each spike folder contains Contributor Specific:
 
 | Accelerator        | Focus                                     | Learn More                        |
 | ------------------ | ----------------------------------------- | --------------------------------- |
-| **PromptLine**     | Voice + AI Concierge for SMBs             | AI-Service/Phone Centers for Small businesses.         |
-| **SyntheticEdge**  | Synthetic data generation for PII-safe AI | Fast-track model development      |
+| [**PromptLine**](https://promptline.app/) | Voice + AI Concierge for SMBs             | AI-Service/Phone Centers for Small businesses.         |
 | **DataGaze**       | Natural Language → SQL                    | Democratizing analytics           |
+| **Kirdar.Ai**      | Ai-ROle Play & Simulations for Training   | Simulate           |
+| **SyntheticEdge**  | Synthetic data generation for PII-safe AI | Fast-track model development      |
 | **InsightBridge**  | AI-driven knowledge forensics             | M&A & legacy modernization        |
 | **KnowledgePulse** | Smart PDFs & dynamic documentation        | Internal knowledge transformation |
 
