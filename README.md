@@ -42,7 +42,7 @@ Each spike has:
 We welcome contributions from:
 - **Engineering Interns** (CS, Data Science, AI, Cloud, DevOps, etc.)
 - **MBA / Business Interns** (Strategy, Marketing, Finance, Innovation)
-- **Founders-in-Residence** working with TheoremLabs or its clients
+- [**Founders/Enterpreneur-in-Residence**](https://youtu.be/M8-lL-BHQSA?si=3R_hLRCfgC5FfyCw) working with TheoremLabs.
 
 Whether you’re exploring **AI frameworks, building new digital products, or testing GTM ideas**, there’s a spike for you.
 
@@ -112,7 +112,8 @@ Each spike folder contains:
 3. Follow the [spike-template.md](templates/spike-template.md).
 4. Submit a **Pull Request** with your findings and outcomes.
 
-> 💬 If you’re new to TheoremLabs, start by opening a GitHub Issue titled “Intern Application: [Your Name]” and include your background + area of interest.
+> 💬 If you’re new to TheoremLabs, but interested in working on our research Spikes or Submitting yours then send a note to: research@theoremlabs.io 
+> include your background + area of interest.
 
 ---
 
