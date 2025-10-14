@@ -66,7 +66,7 @@ Evaluate the following based on:
 - Model accuracy and customizability  
 - Supported output formats (image, video, JSON, graph)
 
-Candidate tools to explore:
+Candidate tools to explore (only suggested for initial research, Code Trails need be be for more than 1-3 max tools which are final candidates ):
 - **ErDiagramAI**, **Text2Diagram**, **DiagramGPT**, **Draw.io API**, **Mermaid.js + LLM pipelines**, **Claude/ChatGPT + Graphviz/PyGraphviz**, **Flowise or LangChain + React Flow**, etc.
 
 #### Step 3 — Conduct Quick Technical Trials
