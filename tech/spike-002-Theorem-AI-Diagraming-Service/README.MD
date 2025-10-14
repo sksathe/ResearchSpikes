@@ -11,10 +11,10 @@
 
 | Field | Entry |
 |---|---|
-| **Spike ID** | `SPK-010` |
+| **Spike ID** | `SPK-002-Theorem-AI-Diagraming-Service` |
 | **Title** | Design & Evaluate TheoremLabs AI-Diagraming Shared Capability (TDC) |
 | **Category** | `Technical / Architectural Research` |
-| **Created by** | TheoremLabs Applied Innovation Labs |
+| **Created by** | Prashant Sarode-TheoremLabs Applied Innovation Labs |
 | **Start Date** | 2025-10-14 |
 | **Status** | Proposed |
 | **Tags** | `AI-Diagraming`, `Transcripts`, `TDC`, `Tacit`, `PromptLine`, `MindMaps`, `Multi-Modal Outputs` |
