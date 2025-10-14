@@ -1,6 +1,6 @@
 
 
-# 🧪 TheoremLabs R&D Spike — AI-Diagraming Shared Capability (TDC)
+# 🧪 TheoremLabs R&D Spike — Common TheoremLabs AI-Diagraming Shared Capability (TDC)
 
 > A Research Spike to explore, evaluate, and architect a shared AI-Diagraming capability across TheoremLabs’ AI-Agent ecosystem.  
 > This capability will generate visual, audio, or video outputs from human–AI conversational transcripts (.vtt files) captured across multiple product contexts.
